@@ -1,4 +1,5 @@
 print('hiiiiii')
+name = "ronaldo"
 
 print("barcaaaaa")
 print("mesiiiiiiiiii")
