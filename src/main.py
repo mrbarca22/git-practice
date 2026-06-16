@@ -7,3 +7,4 @@ print("barcaaaaa")
 
 
 print("xaviiiiiiiiiiiiiiiiiiii")
+name = "messi"
