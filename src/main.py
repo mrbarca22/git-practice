@@ -6,7 +6,7 @@ def d():
 print("barcaaaaa")
 print("mesiiiiiiiiii")
 def add(a ,b ) :
-    return a+b
+   print("hi")
 """
 """        
 def sub(a ,b ) :
